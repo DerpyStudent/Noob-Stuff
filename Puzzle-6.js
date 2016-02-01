@@ -11,7 +11,6 @@ if (getColor()=="red") {
     right();
     up();
   }
-  
 }
 else {
   for (var i=0;i<3;i++){
