@@ -16,4 +16,4 @@ while (remainingDots()==1){
   below();
   northEast();
 }
-//the number of remaining dots doesn't seem to do much?
+
